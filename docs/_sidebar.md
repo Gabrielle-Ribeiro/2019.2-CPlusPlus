@@ -1,10 +1,13 @@
 
 - [**Principal**](/)
-- [Storyboards](/docs/storyboard/storyboard.md "Storyboards")
-- [Avaliação Heurística](/docs/av_heuristicas/av_heuristica.md "Avaliação Heurística")
 - [Políticas](/docs/policies/policies.md)
 - [Planejamento](/docs/planning/planning.md)
-
-- *Links*
+- [*Storyboard*](/docs/storyboard/storyboard.md)
+- [Avaliação Heurística](/docs/heuristic_assessment/heuristic_assessment.md)
+- [Características da Plataforma](/docs/platform_features/platform_features.md)
+- [Matriz F.O.F.A](/docs/swot_matrix/swot_matrix.md)
+- [Análise de Tarefas](/docs/task_analysis/task_analysis.md)
+---
+- **Links**
 - [GitHub](https://github.com/IHC-2019-2/IHC-Grupo-1)
 - [CPlusPlus](http://www.cplusplus.com)

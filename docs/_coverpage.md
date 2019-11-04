@@ -1,0 +1,1 @@
+<img src='docs/assets/img/logo/cpp_logo.png' height=70% width=70%>
