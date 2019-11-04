@@ -2,7 +2,7 @@
 
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
-| 13/10/2019 | 1.0 | Criação da avaliação heurística  | Lucas Fellipe, Guilherme Mendes, Caio Vinicius, Gabriel Davi, João Pedro e Heron Rodrigues |
+| 13/10/2019 | 1.0 | Criação da avaliação heurística  | Lucas Fellipe,  João Pedro|
 
 ## Introdução
 

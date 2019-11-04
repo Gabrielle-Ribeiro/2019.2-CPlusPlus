@@ -1,5 +1,9 @@
 # Personas
 
+| Data       | Versão | Descrição            | Autor             |
+|:----------:|:------:|:--------------------:|:-----------------:|
+| 13/10/2019 | 1.0 | Criação da avaliação heurística  | João Pedro  |
+
 ## Definição
 
 <p align="justify"> Persona é a representação fictícia do cliente ideal de um negócio. Ela é baseada em dados reais sobre comportamento e características demográficas dos clientes, assim como suas histórias pessoais, motivações, objetivos, desafios e preocupações. A persona guia a criação de conteúdo e de marketing digital.</p>
@@ -30,3 +34,12 @@ img {
 </style>
 </head>
 </html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style src='docs/docs/assets/css/table.css'>
+</style>
+<link rel="stylesheet" href="docs/assets/css/table.css">
+</head>
+</html> 

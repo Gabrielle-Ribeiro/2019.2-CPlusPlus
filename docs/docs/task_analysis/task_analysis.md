@@ -2,7 +2,7 @@
 
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
-| 13/10/2019 | 1.0 | Criação da avaliação heurística  | Lucas Fellipe, Guilherme Mendes, Caio Vinicius, Gabriel Davi, João Pedro e Heron Rodrigues |
+| 13/10/2019 | 1.0 | Criação da avaliação heurística  |Caio Vinicius |
 
 ## Busca de Informação
 <br>
@@ -25,6 +25,17 @@
 ## Tabela de Tarefas 2
 <br>
 <img width="350" alt="Responder forum tabela" src="https://user-images.githubusercontent.com/40740008/68162903-f201d000-ff37-11e9-8139-234077ce1abd.png" class="center">
+
+<br>
+<br>
+<br>
+## Referências
+
+* [1] James Heumann, IBM Rational Software. Tips for writing good use cases. Disponível em : [ftp.software.ibm.com/software/rational/web/whitepapers](http://ftp.software.ibm.com/software/rational/web/whitepapers/RAW14023-USEN-00.pdf). Acesso em 28 de outubro de 2019.
+
+* [2] Marilyn Bush, Chris Gerrard, Clifford Shelley. Fagan Inspection: The Silver Bullet No-one Wants to Fire. Disponível em: [http://www.osel.co.uk/presentations/fitsbnwtf.pdf](http://www.osel.co.uk/presentations/fitsbnwtf.pdf). Acesso em 28 de outubro de 2019.
+
+
 
 <!DOCTYPE html>
 <html>
