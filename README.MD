@@ -9,9 +9,6 @@
 | Nome | Matrícula | GitHub | Email |
 | --- | --- | --- | --- |
 | Caio Vinicius Fernandes de Araújo | 17/0138798 | caiovfernandes | caiovf13@gmail.com |
-
-17/0010341
-Gabrieldvpereira
 | Gabriel Davi Silva Pereira | 17/0010341  | Gabrieldvpereira | gdavi.gd@gmail.com |
 | Guilherme Mendes Pereira | 17/0129411 | guilherme-mendes | guimendesp12@gmail.com |
 | Heron Rodrigues Sousa| 16/0124484| heronsousa | heronrs1@gmail.com |
