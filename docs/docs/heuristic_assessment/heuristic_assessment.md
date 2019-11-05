@@ -2,7 +2,7 @@
 
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
-| 05/09/2019 | 1.0 | Criação da avaliação heurística  | Guilherme Mendes, Heron Rodrigues |
+| 05/09/2019 | 1.0 | Criação da avaliação heurística  | Guilherme Mendes e Heron Rodrigues |
 
 ## Avaliação Heurística v1.0
 

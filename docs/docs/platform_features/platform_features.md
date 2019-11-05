@@ -2,7 +2,7 @@
 
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
-| 13/10/2019 | 1.0 | Criação da avaliação heurística  | Lucas Fellipe,  João Pedro|
+| 13/10/2019 | 1.0 | Criação da avaliação heurística  | Lucas Fellipe e João Pedro|
 
 ## Introdução
 

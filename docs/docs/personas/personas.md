@@ -19,7 +19,7 @@
 |**Profissão**| Estudante universitário|
 |**Frase**| Quero melhorar minhas habilidades de programação|
 |**Principais idiomas**| Português e Inglês|
-|**Características**| - Tem um conhecimento alto sobre o funcionamento de computadores <br>- Tem um conhecimento médio em linguagem C e C++ <br> - Programa para se capacitar <br>- Utiliza o site *CPLUSPLUS* para tirar dúvidas <br> |
+|**Características**| - Tem um conhecimento alto sobre o funcionamento de computadores <br>- Tem um conhecimento médio em linguagem C e C++ <br> - Programa para se capacitar <br>- Utiliza o site *CPlusPlus* para tirar dúvidas <br> |
 
 <!DOCTYPE html>
 <html>
