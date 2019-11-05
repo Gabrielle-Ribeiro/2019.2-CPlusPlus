@@ -2,7 +2,7 @@
 
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
-| 13/10/2019 | 1.0 | Criação da avaliação heurística  | João Pedro  |
+| 13/10/2019 | 1.0 | Criação das Personas | João Pedro  |
 
 ## Definição
 

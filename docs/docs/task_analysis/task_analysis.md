@@ -2,7 +2,7 @@
 
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
-| 13/10/2019 | 1.0 | Criação da avaliação heurística  |Caio Vinicius |
+| 13/10/2019 | 1.0 | Criação do documento da Análise de Tarefas  |Caio Vinicius |
 
 ## Busca de Informação
 <br>

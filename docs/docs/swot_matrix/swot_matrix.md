@@ -2,7 +2,7 @@
 
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
-| 13/10/2019 | 1.0 | Criação da avaliação heurística  | Lucas Fellipe|
+| 13/10/2019 | 1.0 | Criação da Matriz F.O.F.A  | Lucas Fellipe|
 
 ## Definição
 
