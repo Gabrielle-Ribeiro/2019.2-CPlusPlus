@@ -3,8 +3,9 @@
 ## Planejamento
 
 ### Introdução
+<p align="justify"> 
 
-Apesar de possuir um fórum para tirar dúvidas e interagir com a comunidade, artigos que aprofundam determinados aspectos sobre  o c++ e tutoriais que apresentam informações basicas sobre a linguagem, auxiliando novos programadores. Foi observado que os usuários buscavam a aplicação principalmente pelas "referências", que é uma seção da aplicação para tirar dúvidas sobre bibliotecas e suas funções e containers. 
+<p align="justify"> Apesar de possuir um fórum para tirar dúvidas e interagir com a comunidade, artigos que aprofundam determinados aspectos sobre  o c++ e tutoriais que apresentam informações basicas sobre a linguagem, auxiliando novos programadores. Foi observado que os usuários buscavam a aplicação principalmente pelas "referências", que é uma seção da aplicação para tirar dúvidas sobre bibliotecas e suas funções e containers. </p>
 
 
 ### Objetivos
@@ -23,12 +24,12 @@ Nosso protótipo tem como objetivos:
 ### Objetivos de avaliação
 
 - Analisar a apropriação da tecnologia
-    1) Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?
-    2) A tecnologia disponivel pode oferecer mais interessantes ou eficientes dos usuários atingirem seus objetivos?
+    - 1) Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?
+    - 2) A tecnologia disponivel pode oferecer mais interessantes ou eficientes dos usuários atingirem seus objetivos?
 - Verificar a conformidade com um padrão
-    1) A interface segue o padrão do sistema operacional e da empresa?
+    - 1) A interface segue o padrão do sistema operacional e da empresa?
 - Identificar problemas na interação e interface
-    1) Ele entende o que significa e para que serve cada elemento de inteface?
+    - 1) Ele entende o que significa e para que serve cada elemento de inteface?
 
 **Perfil dos usuários**: Estudantes universitários
 
@@ -51,12 +52,12 @@ Nosso protótipo tem como objetivos:
 ## Resultados
 
 - Analisar a apropriação da tecnologia
-    1) O processo foi intuitivo com elementos significativos para a atividade proposta. 
-    2) Uma alternativa oferecida pela plataforma não é bem aceita pelos usuários, pois, abre uma nova guia possuindo um estilo totalmente diferente do site.
+    - 1) O processo foi intuitivo com elementos significativos para a atividade proposta. 
+    - 2) Uma alternativa oferecida pela plataforma não é bem aceita pelos usuários, pois, abre uma nova guia possuindo      um estilo totalmente diferente do site.
 - Verificar a conformidade com um padrão
-    1) Sim
+    - 1) Sim
 - Identificar problemas na interação e interface
-    1) Dois icônes da interface geraram dúvidas nos usuários
+    - 1) Dois icônes da interface geraram dúvidas nos usuários
 
 **Problemas encontrados:** 
 - O botão "+" gerou outras interpretações em relação ao objetivo da funcionalidade.
@@ -64,4 +65,4 @@ Nosso protótipo tem como objetivos:
 
 **Reprojeto do sistema:**
 - Será retirado o botão "+" e mantido as opções já expostas pro usuário.
-- Será trocado um dos icones usados, além de manter a legenda de cada funcionalidade quando o usuário passa o mouse por cima da mesma
+- Será trocado um dos icones usados, além de manter a legenda de cada funcionalidade quando o usuário passa o mouse por cima da mesma </p>
