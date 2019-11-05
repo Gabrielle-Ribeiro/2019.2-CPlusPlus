@@ -1,5 +1,10 @@
 ## Protótipo de papel
 
+| Data       | Versão | Descrição            | Autor             |
+|:----------:|:------:|:--------------------:|:-----------------:|
+| 14/10/2019 | 1.0 | Criação do Protótipo de Papel | Heron Rodrigues  |
+| 17/10/2019 | 1.0 | Adição dos Resultados | Heron Rodrigues  |
+
 ## Planejamento
 
 ### Introdução
@@ -23,12 +28,12 @@ Nosso protótipo tem como objetivos:
 
 ### Objetivos de avaliação
 
-- Analisar a apropriação da tecnologia
-    - 1) Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?
+- Analisar a apropriação da tecnologia <br>
+    - 1) Quais são os pontos fortes e fracos do sistema, na opinião dos usuários? <br>
     - 2) A tecnologia disponivel pode oferecer mais interessantes ou eficientes dos usuários atingirem seus objetivos?
-- Verificar a conformidade com um padrão
+- Verificar a conformidade com um padrão <br>
     - 1) A interface segue o padrão do sistema operacional e da empresa?
-- Identificar problemas na interação e interface
+- Identificar problemas na interação e interface <br>
     - 1) Ele entende o que significa e para que serve cada elemento de inteface?
 
 **Perfil dos usuários**: Estudantes universitários
@@ -51,12 +56,12 @@ Nosso protótipo tem como objetivos:
 
 ## Resultados
 
-- Analisar a apropriação da tecnologia
-    - 1) O processo foi intuitivo com elementos significativos para a atividade proposta. 
+- Analisar a apropriação da tecnologia <br>
+    - 1) O processo foi intuitivo com elementos significativos para a atividade proposta.  <br>
     - 2) Uma alternativa oferecida pela plataforma não é bem aceita pelos usuários, pois, abre uma nova guia possuindo      um estilo totalmente diferente do site.
-- Verificar a conformidade com um padrão
+- Verificar a conformidade com um padrão <br>
     - 1) Sim
-- Identificar problemas na interação e interface
+- Identificar problemas na interação e interface <br>
     - 1) Dois icônes da interface geraram dúvidas nos usuários
 
 **Problemas encontrados:** 

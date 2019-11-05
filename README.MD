@@ -1,4 +1,4 @@
-# Wire App
+# CPlusPlus
 
 ## Sobre o Projeto
 

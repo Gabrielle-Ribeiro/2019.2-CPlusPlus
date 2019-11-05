@@ -7,6 +7,8 @@
 - [Avaliação Heurística](/docs/heuristic_assessment/heuristic_assessment.md)
 - [Características da Plataforma](/docs/platform_features/platform_features.md)
 - [Análise de Tarefas](/docs/task_analysis/task_analysis.md)
+- [Princípios Gerais do Projeto](/docs/general_principles/general_principles.md)
+- [Perfil do usuário](/docs/user_profile/user_profile.md)
 - [Personas](/docs/personas/personas.md)
 - [Protótipo de Papel](/docs/paper_prototype/paper_prototype.md)
 - [Protótipo de Alta Fidelidade](/docs/high_fidelity_prototype/high_fidelity_prototype.md)
