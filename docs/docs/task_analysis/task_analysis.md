@@ -32,9 +32,8 @@
 
 ## Referências
 
-* [1] James Heumann, IBM Rational Software. Tips for writing good use cases. Disponível em : [ftp.software.ibm.com/software/rational/web/whitepapers](http://ftp.software.ibm.com/software/rational/web/whitepapers/RAW14023-USEN-00.pdf). Acesso em 28 de outubro de 2019.
+* [1] Simone Barbosa, Bruno Silva. Interação Humano-Computador, Capítulo 6. Elsevier, 1ª edição (5 de agosto de 2010).
 
-* [2] Marilyn Bush, Chris Gerrard, Clifford Shelley. Fagan Inspection: The Silver Bullet No-one Wants to Fire. Disponível em: [http://www.osel.co.uk/presentations/fitsbnwtf.pdf](http://www.osel.co.uk/presentations/fitsbnwtf.pdf). Acesso em 28 de outubro de 2019.
 
 
 
