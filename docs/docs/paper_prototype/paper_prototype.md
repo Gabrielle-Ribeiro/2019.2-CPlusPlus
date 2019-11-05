@@ -71,3 +71,11 @@ Nosso protótipo tem como objetivos:
 **Reprojeto do sistema:**
 - Será retirado o botão "+" e mantido as opções já expostas pro usuário.
 - Será trocado um dos icones usados, além de manter a legenda de cada funcionalidade quando o usuário passa o mouse por cima da mesma </p>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style src='docs/docs/assets/css/table.css'>
+</style>
+<link rel="stylesheet" href="docs/assets/css/table.css">
+</head>
