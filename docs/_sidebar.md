@@ -8,10 +8,12 @@
 - [Características da Plataforma](/docs/platform_features/platform_features.md)
 - [Análise de Tarefas](/docs/task_analysis/task_analysis.md)
 - [Princípios Gerais do Projeto](/docs/general_principles/general_principles.md)
+- [Planejamento de Avaliação](/docs/evaluation_planning/evaluation_planning.md)
 - [Perfil do usuário](/docs/user_profile/user_profile.md)
 - [Personas](/docs/personas/personas.md)
 - [Protótipo de Papel](/docs/paper_prototype/paper_prototype.md)
 - [Protótipo de Alta Fidelidade](/docs/high_fidelity_prototype/high_fidelity_prototype.md)
+
 ---
 - **Links**
 - [GitHub](https://github.com/IHC-2019-2/IHC-Grupo-1)
