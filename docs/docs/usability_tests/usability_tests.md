@@ -33,8 +33,15 @@ Para chegar no protótipo final, foi utilizado como base a nossa primeira versã
 ### O que e como fizemos?
 Para a execução dos testes foi montado um ambiente acessível utilizando a ferramenta Marvel com as imagens do protótipo de papel final. 
 
-O teste de usabilidade foi realizado com 6 usuários. Todos eles trabalham com tecnologia e estavam familiarizados com este tipo de teste.
+O teste de usabilidade foi realizado com 5 usuários. Todos eles trabalham com tecnologia e estavam familiarizados com este tipo de teste.
 Primeiramente, foi disponibilizado.
+
+>"When it comes to web usability testing, the magic number
+>5 is under attack. This number—5 participants will yield
+>80% of the usability findings—derives from research
+>conducted by Nielsen."
+
+Referência: Carol Barnum Southern Polytechnic State University, Bevan Serco Usability Services, Jakob Nielsen Nielsen Norman Group, Dennis Wixon. The "Magic Number 5": Is It Enough for Web Testing?. 
 
 O teste consistiu em:
     1. Usuário utiliza o protótipo, pensando em voz alta e expressando os sentimentos durante a utilização.
@@ -56,6 +63,19 @@ O teste consistiu em:
 ### Possíveis Melhorias apontadas:
 1. Sessão com itens que mais renderam discussões;
 2. Histórico de páginas acessadas, para que facilite o posicionamento dentro do site.
- 
+
+### Teste de Usabilidade 3
+
+### Possíveis Melhorias apontadas:
+1. Melhorar botão de interação com o código.
 
 
+### Teste de Usabilidade 4
+
+### Possíveis Melhorias apontadas:
+1. Interação com código mais clara. O usuário achou que não é necessário um botão e que as opções devem ser mostradas logo junto ao código.
+
+### Teste de Usabilidade 5
+
+### Possíveis Melhorias apontadas:
+1. Usuário indicou que o protótipo poderia ter uma maior interação no geral, com mais botões clicáveis e maior usabilidade com a interface.
