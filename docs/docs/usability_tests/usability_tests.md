@@ -10,6 +10,25 @@ Teste de usabilidade é uma técnica de caixa-preta. O objetivo é observar usu�
 Para estes testes, utilizamos nosso protótipo final de baixa fidelidade.
 Para chegar no protótipo final, foi utilizado como base a nossa primeira versão, e, a partir disso, cada integrante desenvolveu seu próprio protótipo de papel, implementando as melhorias e mudanças potenciais que foram observadas até então. Com isso, desenvolvemos um protótipo final utilizando as ideias e melhorias propostas por cada integrante.
 
+![Paper Prototyping-3](https://user-images.githubusercontent.com/42192251/68852835-78947b00-06b7-11ea-80dc-df9c6b11ee42.jpg)
+
+![Paper Prototyping-4](https://user-images.githubusercontent.com/42192251/68852845-7f22f280-06b7-11ea-89e0-b5a1bab3a327.jpg)
+
+![Paper Prototyping-5](https://user-images.githubusercontent.com/42192251/68852876-877b2d80-06b7-11ea-9a85-abfa9b4de05c.jpg)
+
+![Paper Prototyping-6](https://user-images.githubusercontent.com/42192251/68852879-877b2d80-06b7-11ea-8715-21dcb3b6c272.jpg)
+
+![Paper Prototyping-7](https://user-images.githubusercontent.com/42192251/68852880-877b2d80-06b7-11ea-8a26-afa9a2aed330.jpg)
+
+![Paper Prototyping-8](https://user-images.githubusercontent.com/42192251/68852881-8813c400-06b7-11ea-81b7-35daf9919ebf.jpg)
+
+![Paper Prototyping-9](https://user-images.githubusercontent.com/42192251/68852882-8813c400-06b7-11ea-8e24-86eab7e04981.jpg)
+
+![Paper Prototyping-10](https://user-images.githubusercontent.com/42192251/68852883-8813c400-06b7-11ea-855a-9b5c0e5ffc13.jpg)
+
+![Paper Prototyping-11](https://user-images.githubusercontent.com/42192251/68852884-8813c400-06b7-11ea-8e69-0f0fd134bec9.jpg)
+
+
 ## Processo
 ### O que e como fizemos?
 Para a execução dos testes foi montado um ambiente acessível utilizando a ferramenta Marvel com as imagens do protótipo de papel final. 
@@ -37,7 +56,6 @@ O teste consistiu em:
 ### Possíveis Melhorias apontadas:
 1. Sessão com itens que mais renderam discussões;
 2. Histórico de páginas acessadas, para que facilite o posicionamento dentro do site.
-
-
+ 
 
 
