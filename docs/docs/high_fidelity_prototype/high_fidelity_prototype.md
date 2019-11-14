@@ -6,4 +6,4 @@
 [![Foo](https://user-images.githubusercontent.com/42192251/68170785-e4584480-ff4f-11e9-82ce-30b4f618af42.png)](https://marvelapp.com/9h6igi6/screen/63152610)
 
 ### Protótipo de Alta Fidelidade V2.0
-[![Foo](https://user-images.githubusercontent.com/40740008/68852013-cad49c80-06b5-11ea-9589-cc3eb51cd1dc.png)](https://www.figma.com/file/tqQBzHG9qB4ZWPb4YKP6r5/CPlusPlus?node-id=0%3A1)
+[![Foo](https://user-images.githubusercontent.com/40740008/68853358-91e9f700-06b8-11ea-93c0-44d4f4433006.png)](https://www.figma.com/file/tqQBzHG9qB4ZWPb4YKP6r5/CPlusPlus?node-id=0%3A1)
