@@ -11,9 +11,9 @@
 - [Planejamento de Avaliação](/docs/evaluation_planning/evaluation_planning.md)
 - [Perfil do usuário](/docs/user_profile/user_profile.md)
 - [Personas](/docs/personas/personas.md)
-- [Protótipo de Papel](/docs/paper_prototype/paper_prototype.md)
+- [Protótipo de Papel v1](/docs/paper_prototype/paper_prototype.md)
+- [Testes de Usabilidade Protótipo Final](/docs/usability_tests/usability_tests.md)
 - [Roteiro De Testes de Alta Fidelidae](/docs/high_fidelity_tests/high_fidelity_tests.md)
-- [Testes de Usabilidade](/docs/usability_tests/usability_tests.md)
 - [Protótipo de Alta Fidelidade](/docs/high_fidelity_prototype/high_fidelity_prototype.md)
 
 ---
