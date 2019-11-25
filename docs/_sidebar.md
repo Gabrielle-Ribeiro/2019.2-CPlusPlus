@@ -4,6 +4,7 @@
 - [Políticas](/docs/policies/policies.md)
 - [*Storyboard*](/docs/storyboard/storyboard.md)
 - [Matriz F.O.F.A](/docs/swot_matrix/swot_matrix.md)
+- [Guia de Estilo](/docs/style_guide/style_guide.md)
 - [Avaliação Heurística](/docs/heuristic_assessment/heuristic_assessment.md)
 - [Características da Plataforma](/docs/platform_features/platform_features.md)
 - [Análise de Tarefas](/docs/task_analysis/task_analysis.md)
