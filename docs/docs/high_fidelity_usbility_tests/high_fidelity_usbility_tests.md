@@ -55,35 +55,35 @@ Os testes foram realizados no campus da Universidade de Brasília do Gama. Sendo
 - Termo de Consentimento:
 ![photo5109829966689839253](https://user-images.githubusercontent.com/46005310/69589747-d84e2880-0fcb-11ea-8566-1026a39259ff.jpg) 
 
-<iframe width="750" height="400" src="https://youtu.be/1oe5cwkjbwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1oe5cwkjbwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Teste de Usabilidade 2
 - Entrevistada: Gabrielle Ribeiro
 - Termo de Consentimento:
 ![photo5109829966689839252](https://user-images.githubusercontent.com/46005310/69589743-d6846500-0fcb-11ea-9a70-1285c3827479.jpg)
 
-<iframe width="750" height="400" src="https://youtu.be/Ft4tXGdds0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ft4tXGdds0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Teste de Usabilidade 3
 - Entrevistado: Samuel Ávila
 - Termo de Consentimento:
 ![photo5109829966689839255](https://user-images.githubusercontent.com/46005310/69589751-d97f5580-0fcb-11ea-9372-76eacbf6298d.jpg)
 
-<iframe width="750" height="400" src="https://youtu.be/Fwdz75wmMkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fwdz75wmMkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Teste de Usabilidade 4
 - Entrevistada: Emilly Dias
 - Termo de Consentimento:
 ![photo5109829966689839254](https://user-images.githubusercontent.com/46005310/69589753-db491900-0fcb-11ea-8348-192b42ea36b6.jpg)
 
-<iframe width="750" height="400" src="https://youtu.be/qV7ZCc576n8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qV7ZCc576n8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Teste de Usabilidade 5
 - Entrevistado: Herick Portugues
 - Termo de Consentimento:
 ![photo5109829966689839251](https://user-images.githubusercontent.com/46005310/69589742-d5533800-0fcb-11ea-9d1b-e2d994e39827.jpg)
 
-<iframe width="750" height="400" src="https://youtu.be/YLk5XgCJIso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YLk5XgCJIso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Relato dos resultados
