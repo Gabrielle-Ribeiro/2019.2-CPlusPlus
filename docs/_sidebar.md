@@ -16,7 +16,7 @@
 - [Testes de Usabilidade Protótipo Final](/docs/usability_tests/usability_tests.md)
 - [Roteiro De Testes de Alta Fidelidae](/docs/high_fidelity_tests/high_fidelity_tests.md)
 - [Protótipo de Alta Fidelidade](/docs/high_fidelity_prototype/high_fidelity_prototype.md)
-
+- [Teste de Usabilidade - Protótipo de Alta Fidelidade](/docs/high_fidelity_usbility_tests/high_fidelity_usbility_tests.md)
 ---
 - **Links**
 - [GitHub](https://github.com/IHC-2019-2/IHC-Grupo-1)
