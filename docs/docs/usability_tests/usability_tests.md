@@ -67,6 +67,7 @@ O teste consistiu em:
 
 ### Teste de Usabilidade 1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iZ1HB27QGSQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Possíveis Melhorias apontadas:
 1. Remoção do bloco de busca na tela inicial;
 2. Histórico de páginas acessadas, para que facilite o posicionamento dentro do site;
