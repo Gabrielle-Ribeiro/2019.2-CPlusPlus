@@ -20,7 +20,8 @@ As seguintes fontes foram definidas para o protótipo de alta fidelidade.
 
 A seguinte paleta de cores foi definida para o protótipo de alta fidelidade.
 
-<img width="769" alt="Screen Shot 2019-11-25 at 20 17 38" src="https://user-images.githubusercontent.com/40740008/69586236-abe0df00-0fc0-11ea-8e0b-3abb3e3c2766.png">
+![Identidade](https://user-images.githubusercontent.com/40740008/69800414-f7a7aa00-11b3-11ea-9267-12a5933603e7.png)
+
 
 
 
