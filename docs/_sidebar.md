@@ -2,6 +2,7 @@
 - [Home](README.md)
 - [Planejamento](/docs/planning/planning.md)
 - [Políticas](/docs/policies/policies.md)
+- [Metodologia](/docs/methodology/methodology.md)
 - [*Storyboard*](/docs/storyboard/storyboard.md)
 - [Matriz F.O.F.A](/docs/swot_matrix/swot_matrix.md)
 - [Guia de Estilo](/docs/style_guide/style_guide.md)
